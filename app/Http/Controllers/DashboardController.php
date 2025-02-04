@@ -19,5 +19,4 @@ class DashboardController extends Controller
         // Otherwise, show the User Profile
         return view('user.profile');
     }
-    }
 }
